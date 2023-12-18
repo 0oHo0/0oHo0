@@ -1,8 +1,9 @@
- <div align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181025511.jpg#pic_center" style="zoom: 45%;" /></div>
+ <p align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181036449.jpg#pic_center" style="width: 40%;" /></p>
 
-<div align='center'>
-<font size="70" style="font-weight:bold">Welcome to My Github</font>
-</div>
+<h3 align='center'>
+Welcome to My Github
+</h3>
+
 
 > You are my ![Visitor Count](https://profile-counter.glitch.me/0oHo0/count.svg) visitor,Thank You!
 
