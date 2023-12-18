@@ -5,7 +5,7 @@ Welcome to My Github
 </h3>
 
 
-> You are my <img src="https://profile-counter.glitch.me/0oHo0/count.svg" style="width: 20%;"/> visitor,Thank You!
+> You are my <img src="https://profile-counter.glitch.me/0oHo0/count.svg" style="width: 15%;"/> visitor,Thank You!
 
 -----
 
