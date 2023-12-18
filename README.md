@@ -1,4 +1,4 @@
- <p align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181036449.jpg#pic_center" style="width: 40%;" /></p>
+ <p align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181036449.jpg#pic_center" style="width: 20%;" /></p>
 
 <h3 align='center'>
 Welcome to My Github
