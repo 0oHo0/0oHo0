@@ -10,14 +10,22 @@
 
 ### 👋,我是 Duu.
 
+- 👨‍🎓学业状态：研2️⃣
 
+
+- 📝 博客: [Duu's Blog](https://0oho0.github.io/)
 - 📫如何联系我: duha0chen@163.com
-- 😄了解更多请移步Blog: [Duu's Blog](https://0oho0.github.io/)
-  
+
 ### Github汇总
 [![Duu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0oHo0&show_icons=true&theme=vue&hide=prs,contribs&locale=cn&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-### 语言与工具
+### 技术栈
+
+Java、MySQL、Git、Maven管理工具、SpringMyBatis、SpringMyBatis-Plus、SpringBoot2、Redis、RabbitMq、Nacos、Docker、Elasticsearch、Dubbo、设计模式、JMeter压力测试、Vue3
+
+> 正在学习：Spring Cloud
+
+### 使用过的语言与工具
 <p align="left">
     <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
@@ -28,9 +36,6 @@
     <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx"
             width="40" height="40"/> </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img
-            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-            alt="nodejs" width="40" height="40"/> </a>
     <a href="https://www.rabbitmq.com" target="_blank" rel="noreferrer">
         <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="40" height="40"/>
     </a>
@@ -63,7 +68,28 @@
        rel="noreferrer"> <img
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
             alt="javascript" width="40" height="40"/> </a>
+        <a href="https://www.typescriptlang.org/docs/handbook/typescript-in-5-minutes.html" target="_blank"
+       rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+            alt="javascript" width="40" height="40"/> </a>
+     <a href="https://www.npmjs.com" target="_blank"
+       rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg"
+            alt="javascript" width="40" height="40"/> </a>
+         <a href="https://git-scm.com" target="_blank"
+       rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original-wordmark.svg"
+            alt="javascript" width="40" height="40"/> </a>
+         <a href="https://www.jetbrains.com/" target="_blank"
+       rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg"
+            alt="javascript" width="40" height="40"/> </a>
+         <a href="https://cn.vuejs.org/" target="_blank"
+       rel="noreferrer"> <img
+            src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg"
+            alt="javascript" width="40" height="40"/> </a>
 </p>
+
 
 ### 项目语言构成
 
