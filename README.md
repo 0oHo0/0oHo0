@@ -15,7 +15,7 @@
 - 😄了解更多请移步Blog: [Duu's Blog](https://0oho0.github.io/)
   
 ### Github汇总
-[![Duu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0oHo0&show_icons=true&theme=vue&hide=prs,contribs&locale=cn&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Duu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0oHo0&show_icons=true&theme=vue&hide=prs,contribs&locale=cn&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 语言与工具
 <p align="left">
@@ -67,5 +67,5 @@
 
 ### 项目语言构成
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oHo0&layout=compact&hide_title=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oHo0&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
