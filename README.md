@@ -1,4 +1,4 @@
- <p align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181036449.jpg#pic_center" style="width: 20%;" /></p>
+ <p align=center><img src="https://cdn.jsdelivr.net/gh/0oHo0/Picture@main/img/202312181036449.jpg#pic_center" style="width: 30%;" /></p>
 
 <h3 align='center'>
 欢迎来到我的Github主页
@@ -21,7 +21,7 @@
 
 ### 技术栈
 
-Java、MySQL、Git、Maven管理工具、SpringMyBatis、SpringMyBatis-Plus、SpringBoot2、Redis、RabbitMq、Nacos、Docker、Elasticsearch、Dubbo、设计模式、JMeter压力测试、Vue3
+Java、MySQL、Git、Maven管理工具、MyBatis-Plus、SpringBoot2、Redis、RabbitMq、Nacos、Docker、Elasticsearch、Dubbo、设计模式、JMeter压力测试、Vue3
 
 > 正在学习：Spring Cloud
 
