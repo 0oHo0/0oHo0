@@ -14,7 +14,7 @@
 
 
 - 📝 博客: [Duu's Blog](https://0oho0.github.io/)
-- 📫如何联系我: duha0chen@163.com
+- 📫如何联系我: duuhoo@126.com
 
 ### Github汇总
 [![Duu's GitHub stats](https://github-readme-stats.vercel.app/api?username=0oHo0&show_icons=true&theme=vue&hide=prs,contribs&locale=cn&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
