@@ -95,9 +95,8 @@ Java、MySQL、Git、Maven管理工具、MyBatis-Plus、SpringBoot2、Redis、Ra
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0oHo0&layout=compact&hide_title=true&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=sammorozov&style=for-the-badge&color=orange" alt=""/>
-</div>
+
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
